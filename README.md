@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse Icon" height="40" width="40">
 </p>
 
-# Sistemas Operacionais 1 - Aula 1 - Ex 2
+# Sistemas Operacionais 1 - Aula 1 - Ex 3
 
 ## 🗓️ Aula 1
 
